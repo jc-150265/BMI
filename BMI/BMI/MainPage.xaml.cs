@@ -29,8 +29,8 @@ namespace BMI
 
             //DisplayAlert("BMI", bmi.ToString(), "OK");
 
-            string x = bmi.ToString();
-            hoge.Text = x;
+            //string x = bmi.ToString();
+            //hoge.Text = x;
 
             /*
             if (bmi < 18.5)
@@ -66,19 +66,19 @@ namespace BMI
             }
             else if (bmi < 30)
             {
-                DisplayAlert("BMI", "BMI値は" + bmi.ToString() + "で肥満(1度)です", "OK");
+                DisplayAlert("BMI", "BMI値は" + bmi.ToString() + "でちょっとデブです", "OK");
             }
             else if (bmi < 35)
             {
-                DisplayAlert("BMI", "BMI値は" + bmi.ToString() + "で肥満(2度)です", "OK");
+                DisplayAlert("BMI", "BMI値は" + bmi.ToString() + "でデブです", "OK");
             }
             else if (bmi < 40)
             {
-                DisplayAlert("BMI", "BMI値は" + bmi.ToString() + "で肥満(3度)です", "OK");
+                DisplayAlert("BMI", "BMI値は" + bmi.ToString() + "でかなりデブです", "OK");
             }
             else
             {
-                DisplayAlert("BMI", "BMI値は" + bmi.ToString() + "で肥満(4度)です", "OK");
+                DisplayAlert("BMI", "BMI値は" + bmi.ToString() + "でやばめのデブです", "OK");
             }
 
         }
