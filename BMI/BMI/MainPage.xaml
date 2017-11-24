@@ -5,6 +5,7 @@
              x:Class="BMI.MainPage">
     <ContentPage.Content>
         <StackLayout>
+            <Label Text="JK3A10 鎌田 裕登"/>
             <Label Text="身長を入力して下さい"
                    VerticalOptions="CenterAndExpand"
                    HorizontalOptions="CenterAndExpand"/>
