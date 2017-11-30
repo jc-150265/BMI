@@ -12,6 +12,7 @@
                    VerticalOptions="CenterAndExpand"
                    HorizontalOptions="CenterAndExpand"/>
             <Entry Text="160"
+                   WidthRequest="60"
                    VerticalOptions="CenterAndExpand"
                    HorizontalOptions="CenterAndExpand"
                     x:Name="Height"/>
@@ -19,6 +20,7 @@
                    VerticalOptions="CenterAndExpand"
                    HorizontalOptions="CenterAndExpand"/>
             <Entry Text="50"
+                   WidthRequest="60"
                    VerticalOptions="CenterAndExpand"
                    HorizontalOptions="CenterAndExpand"
                     x:Name="Weight"/>
